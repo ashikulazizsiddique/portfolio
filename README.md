@@ -51,10 +51,10 @@ user’s photos. The approach used image processing techniques to preprocess and
 ## 6th International Conference on Advanced Science, Education, Social Science, Technology, and Management (ICASETM-2023)
 
 # Projects 
-## 1. DiabetesPrediction 
+- DiabetesPrediction 
 Predict diabetes risk with our web app! Built using Django in Python, it employs machine learning to analyze health data and offer accurate predictions. The user-friendly interface enables easy input of health information for quick results.
 
-## 2. Sales-Data-Analysis
+- Sales-Data-Analysis
 Using PowerBI 
 
 # Awards 
