@@ -1,10 +1,5 @@
-author:
-  name: Md Ashikul Aziz Siddique
-  avatar: /assets/img/ashikul-image.jpg
-  #/images/profile.jpg
-<img src="{{ site.author.avatar }}" alt="Profile Picture" style="border-radius: 50%;">
 
-#logo: /assets/img/ashikul-image.jpg
+logo: /assets/img/ashikul-image.jpg
 
 #show_downloads: true
 theme: jekyll-theme-minimal
@@ -15,8 +10,7 @@ author:
   bio: Computer Vision Researcher | Data Science Enthusiast | Technical Support Engineer
   location: 180/1 West Shewrapara, Mirpur-1216, Dhaka, Bangladesh
   email: mdashilulaziz@gmail.com
-  twitter_username: ashikulaziz
-  github_username: ashikulazizsiddique
+  Phone: +8801767212232
 
 # Social media links
 social:
@@ -28,18 +22,4 @@ social:
     url: https://twitter.com/ashikulaziz
   # Add more social media links as needed
 
-# Navigation links
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Projects
-    url: /projects
-  # Add more navigation links as needed
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-feed
