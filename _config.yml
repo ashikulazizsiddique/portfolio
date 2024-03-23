@@ -2,6 +2,7 @@ author:
   name: Md Ashikul Aziz Siddique
   avatar: /assets/img/ashikul-image.jpg
   #/images/profile.jpg
+<img src="{{ site.author.avatar }}" alt="Profile Picture" style="border-radius: 50%;">
 
 #logo: /assets/img/ashikul-image.jpg
 
